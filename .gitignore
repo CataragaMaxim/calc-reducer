@@ -1,0 +1,60 @@
+# Flutter
+*.pdb
+*.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+.dart_tool/
+build/
+.gradle/
+.fvm/
+*.iml
+*.iws
+.idea/
+.settings/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Android
+*.apk
+*.aab
+*.dex
+*.class
+gen/
+bin/
+obj/
+android/local.properties
+android/.gradle/
+android/.idea/
+android/app/.gradle/
+android/app/build/
+android/build/
+
+# iOS
+Pods/
+Podfile.lock
+*.xcworkspace
+*.xcuserstate
+*.xcuserdatad
+*.moved-aside
+DerivedData/
+.idea/
+*.hmap
+*.xccheckout
+*.playground
+
+# Mac
+.DS_Store
+*.app
+*.dmg
+*.pkg
+
+# Web
+.dart_tool/
+build/
+packages/
+pubspec.lock
+node_modules/
